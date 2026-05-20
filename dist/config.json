@@ -1,0 +1,17 @@
+{
+  "nom": "AVIWALO",
+  "slogan": "Votre partenaire de confiance",
+  "adresse": "Rond Point Marche, Ville",
+  "telephone": "+221 77 724 74 74",
+  "RC": "",
+  "NINEA": "",
+  "logo_path": "C:/Users/2sh/Desktop/facturation/logoAviwalo.png",
+  "logo_largeur_mm": 50,
+  "logo_hauteur_mm": 40,
+  "couleur_primaire": "#c0c0c0",
+  "couleur_accent": "#0d3d91",
+  "message_remerciement": "✨ Merci pour votre confiance !",
+  "mention_paiement": "Paiement à réception de facture.",
+  "titre_facture": "FACTURE",
+  "dossier_factures": "C:/Users/2sh/Desktop/facturation/facture"
+}
